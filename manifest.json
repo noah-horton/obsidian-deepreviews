@@ -1,0 +1,6 @@
+{
+  "id": "deepreviews", "name": "DeepReviews", "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Edit DeepSchemas beneath your notes and review them with your coding agent.",
+  "author": "Noah Horton", "isDesktopOnly": true
+}
